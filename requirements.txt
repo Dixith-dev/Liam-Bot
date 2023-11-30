@@ -2,3 +2,9 @@ discord.py
 langchain
 openai
 chromadb
+discord.py
+langchain
+openai
+chromadb
+youtube_transcript_api
+tiktoken 
