@@ -8,3 +8,4 @@ openai
 chromadb
 youtube_transcript_api
 tiktoken 
+googlesearch
